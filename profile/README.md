@@ -9,6 +9,6 @@ These repos are made by **me** ( [@WashingtonYandun](https://github.com/Washingt
 
 ## 👀 You could find in here (specially):
 
-- WEB DEVELOPMENT (tiny things for fun and learn).
-- COLLEGE REPOS / PROJECTS.
-- RESPOS CREATED FOR LEARNING STUFF.
+- REPOS CREATED FOR FUN. (tiny things for fun and learn).
+- UNIVERSITY PROJECTS / HOMEWORKS.
+- REPOS CREATED FOR LEARNING STUFF.
