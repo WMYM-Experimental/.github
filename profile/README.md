@@ -1,5 +1,7 @@
 # 👋 Hi, This is WMYM-Experimental by [@WashingtonYandun](https://github.com/WashingtonYandun).
 
+[![](https://visitcount.itsvg.in/api?id=WMYM-Experimental&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
 These repos are made by **me** ( [@WashingtonYandun](https://github.com/WashingtonYandun) ) 
 
 ## 🏬 Why a Github org?
